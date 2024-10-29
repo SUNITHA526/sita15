@@ -1,0 +1,46 @@
+.div1{
+    display: flex;
+    height: 100px;
+    background-color: yellowgreen;
+    flex: 1 0 33.33%;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    
+
+   
+}
+.p{
+    display: flex;
+   
+    height: 10px;
+
+}
+
+.p1{
+    flex-grow: 1;
+    background-color: blueviolet;
+    width: 33.33%;
+    height: 30px;
+}
+.p2{
+    flex-grow: 1;
+    background-color: aqua;
+    width: 33.33%;
+    height: 30px;
+}
+.p3{
+    flex-grow: 1;
+    background-color: lightpink;
+    width: 33.33%;
+    height: 30px;
+
+}
+.p4{
+    flex-grow: 1;
+    background-color: lightseagreen;
+    height: 30px;
+    
+    
+
+}
